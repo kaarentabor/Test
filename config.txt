@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 theme=blue
+=======
+theme=dark
+>>>>>>> main
